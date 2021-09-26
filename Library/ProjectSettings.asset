@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: fd1937239307ca24abb789539ed89346
+  productGUID: b2f86ab2afc41d64dab97ea178a46aea
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -580,10 +580,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 7b91321a-6430-42d8-a1aa-3a5c2e7f20f6
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: Pong
-  organizationId: faiznailun
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
